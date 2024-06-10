@@ -1,0 +1,17 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "Dang Dung",
+            "address": "Hà Nội"
+        },
+        {
+            "id": 2,
+            "name": "Nhu Yen",
+            "address": "Bac Giang"
+        }
+    ],
+    "products": [],
+    "comment": []
+},
+
